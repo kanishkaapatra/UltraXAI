@@ -1,0 +1,6 @@
+{
+  "name": "UltraX AI",
+  "description": "Convert natural language product ideas into production-ready Prisma schemas, TypeScript types, Zod validations, and Mermaid ERD diagrams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
